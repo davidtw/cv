@@ -1,0 +1,14 @@
+/* TEAM */
+Title:      David Twigger.
+Position:   Responsable développement front-end & mobile, développeur back-end
+Site:       http://davidtwigger.com
+Twitter:    @TwiggerDavid
+Location:   Grenoble, France.
+/* THANKS */
+Name: Josselin Andrieux
+/* SITE */
+Updated:     2014/11/15
+Language:    Français (FR)
+Standards:   HTML5, CSS3, JavaScript
+Components:  jQuery, LessCss
+Software:    SublimeText
