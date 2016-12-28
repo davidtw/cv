@@ -12,4 +12,4 @@ sudo docker build -t davidtwigger/cv .
 sudo docker run -p 80:80 -v [path/to/cloned/local/src/directory]:/var/www/html davidtwigger/cv
 ```
 
-You should then be able to veiew the app by go to http://localhost in your browser
+You should then be able to veew the app by go to http://localhost in your browser
