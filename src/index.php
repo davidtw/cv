@@ -146,16 +146,11 @@ define('FROM_LESS', false);
         <div class="sectionInner">
             <div id="aproposTxt">
                 <h1 itemprop="jobTitle">Développeur <br>front-end</h1>
-                <p>Ingénieur en développement Front-end chez QIM Info pour le compte de la banque privée Lombard Odier</p>
-                <p>Je travaille sur la partie front end des systèmes de configuration des frais en Angular avec Material design</p>
+                <p>Ingénieur en développement Front-end chez QIM Info pour le compte de la banque privée Genevoise Lombard Odier</p>
+                <p>Je travaille sur la partie front-end des systèmes de configuration des frais bancaires en Angular avec Material design</p>
                 <br>
                 <p>Quelques technos : Javascript, AngularJs, HTML5, LessCss, Css3, NodeJs, Mocha, Karma, Git, Api Rest, Protractor, 
                     PHP, Docker, Grunt, Objectove C, SVN, Linux, Ngnix, Apache, Socket.io, Java</p>
-                <?php /*
-<h1 itemprop="jobTitle">Responsable développement front-end &amp; mobile</h1>
-<p>Responsable des équipes de développement front-end et de développement mobile de la société B&amp;D Eolas et Développeur du noyau du CMS@Eolas.</p>
-<p>Responsable technique, je prends les décisions techniques lors de la phase de conception et assure le bon déroulement des projets. Je suis garant de la qualité des développements produits par les différentes équipes et assure la formation des développeurs.</p>
-*/ ?>
             </div>
         </div>
     </section>
