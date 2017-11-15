@@ -555,13 +555,13 @@ define('FROM_LESS', false);
                 <p><span
                         itemprop="birthDate">04/05/1983 </span>(<?php echo (date('n') >= 5 ? date('Y') : (date('Y') - 1)) - 1983 ?>
                     ans)</p>
-                <h2>Nationlité</h2>
+                <h2>Nationalité</h2>
                 <p><span itemprop="nationality">Britannique</span></p>
             </section>
         </div>
     </div>
     <footer>
-        <p>Copyright 2012 © <span itemprop="name"><span itemprop="givenName">David</span> <span itemprop="familyName">Twigger</span></span>
+        <p>Copyright <?php echo date('Y') ?> © <span itemprop="name"><span itemprop="givenName">David</span> <span itemprop="familyName">Twigger</span></span>
             - Réalisation graphique : <a href="http://naissance-graphique.fr/" data-link="external"
                                          title="Voir le site de Naissance graphique (Nouvelle fenêtre)">Josselin
                 Andrieux - Naissance Graphique</a></p>
