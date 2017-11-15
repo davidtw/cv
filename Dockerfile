@@ -1,5 +1,5 @@
 FROM php:7.0-apache
 
-VOLUME ["/var/www/html"]
+COPY src /var/www/html
 
 EXPOSE 80
